@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Dashmelon13.
 
 * Lab 4
 
-    Lab 4, part 2 was a favorite because found this lab to be very fun because I always wanted to create some kind of game with code.Though I always thought that it was somethign that required great experience in coding. This lab showed me how just through if-statements a solid game could be developed.
+    Lab 4, part 2 was a favorite because found this lab to be very fun because I always wanted to create some kind of game with code. Though I always thought that it was somethign that required great experience in coding. This lab showed me how just through if-statements a solid game could be developed.
 
 * Lab 3
 
